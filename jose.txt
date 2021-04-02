@@ -12,6 +12,10 @@
 <div class="container">
  <div class="row">
    <div class="col-mg-6">Columna Nuemro 1</div><div class="col-mg-6">Columna Numero 2</div>
+   <div id="formulario" class="col-mg-12">
+     <input type="text" name="tnombre" id="tnombre" class="form-control">
+     <input type="button" name="bnombre" id="bnombre" value="Calcular">    
+   </div>
  </div>
 </div>
 </body>
